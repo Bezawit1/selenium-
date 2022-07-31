@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 
 //this simple test is about launching a specific address and pass username and password
 //and click on login button and the user should successfully login and close
+//this is test
 
 public class LoginTest {
 	public static String browser = "Chrome"; // EXTERNAL configuration xls..
